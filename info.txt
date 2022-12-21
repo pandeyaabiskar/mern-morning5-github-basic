@@ -2,3 +2,6 @@ My name is Aabiskar Pandey.
 My address is Sifal.
 Studying MERN Stack.
 hello i am prashata
+
+
+git remote set url <repo> : to add new repo
