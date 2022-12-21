@@ -1,0 +1,2 @@
+git checkout <branchname> : to go to branch 
+git checkout -b <branchname> : to create new branch
