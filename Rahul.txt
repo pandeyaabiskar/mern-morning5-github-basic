@@ -1,0 +1,3 @@
+git remote set url <repo> : to add new repo
+git checkout -b <branchname> : to create new branch
+git checkout <branchname> : to go to branchname that exist before
